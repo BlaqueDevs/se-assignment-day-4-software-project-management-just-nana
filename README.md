@@ -16,11 +16,14 @@ Defining project scope ensures people don't get carried away with the project. W
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Detailed project schedules ensure people remain on task and time with their work, Gantt charts can help by maintaining a structured schedule.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issue my software would solve is the proper disposal of plastic waste.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 A clearly defiend problem ensures that developers can stay focused on just that problem making the solution more effective for solving that specifc problem.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-By highligting its key features and functionality.
+An application that tracks the ammount of plastic bottles someone properly disposes at designated areas by scaning the serial numbers then rewarding them.
 ## 11. What are the main features or functionalities that make your software stand out?
+Being an application people can have on their phones instead of being stationary allowing people to use the app anywhere.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Software like this is already being used accross Europe and the demand is ever growing if the software can be operational in places third world countries where waste is often dumped providing rewards for properly disposing it would have a large market.
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Market trends can give you a peek into what competitors are doing and show you how to make your software stand out.
